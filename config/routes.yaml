@@ -1,0 +1,2 @@
+KWIKCommonBundle:
+    resource: ../src/KaramaFront/PagesBundle/Config/routing.yaml

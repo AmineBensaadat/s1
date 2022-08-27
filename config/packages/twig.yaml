@@ -1,0 +1,9 @@
+twig:
+    default_path: '%kernel.project_dir%/src'
+    paths:
+        # Front
+        'src/KaramaFront/PagesBundle/templates': 'PagesTemplate'
+        'src/KaramaFront/FrontThemeBundle/templates': 'FrontTheme'
+when@test:
+    twig:
+        strict_variables: true

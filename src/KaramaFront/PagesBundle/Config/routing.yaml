@@ -1,0 +1,3 @@
+Karama_PageBundle_Home_Index:
+  path: /
+  controller: App\KaramaFront\PagesBundle\Controller\HomeController::index
